@@ -5,7 +5,9 @@
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
 - 🔭 I’m a student working towards a Bachelor of Science focused in Software Engineering from Plymouth University, UK.
+
 - 🌱 I’m currently learning **Angular Framework**
+
 - 📫 How to reach me: **thaanup@gmail.com**
 <hr>
 <p align="center">
