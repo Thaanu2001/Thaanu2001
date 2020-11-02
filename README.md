@@ -3,7 +3,6 @@
 [![Twitter: @ThaanuPerera](https://img.shields.io/twitter/follow/thaanuperera?color=blue&label=Follow%20%40ThaanuPerera&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/@ThaanuPerera)
 [![GitHub: @Thaanu2001](https://img.shields.io/github/followers/Thaanu2001?color=green&logo=github&style=flat-square)](https://github.com/Thaanu2001)
 [![LinkedIn: @Thaanu2001](https://img.shields.io/badge/-Thaanu_Perera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaanu-perera-0a84b9194/)](https://www.linkedin.com/in/thaanu-perera-0a84b9194/)
-[![Email: thaanup@gmail.com](https://img.shields.io/badge/-Thaanu_Perera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaanu-perera-0a84b9194/)](https://www.linkedin.com/in/thaanu-perera-0a84b9194/)
 ![](https://komarev.com/ghpvc/?username=Thaanu2001&style=flat-square&color=orange)
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
