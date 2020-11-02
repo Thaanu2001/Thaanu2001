@@ -1,6 +1,5 @@
 ![Alt Text](https://github.com/Thaanu2001/Thaanu2001/blob/main/gif/biogif.gif)
 
-# Hi, I'm Thaanu Perera <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 [![Twitter: @ThaanuPerera](https://img.shields.io/twitter/follow/ThaanuPerera?style=social)](https://twitter.com/@ThaanuPerera)
 [![GitHub: @Thaanu2001](https://img.shields.io/github/followers/Thaanu2001?style=social)](https://github.com/Thaanu2001)
 ![](https://komarev.com/ghpvc/?username=Thaanu2001)
