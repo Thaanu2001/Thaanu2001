@@ -1,3 +1,5 @@
+![Alt Text](https://i.ibb.co/8cJ0sx1/Animated-Logo-Design-Branding-Logo-Animated-Logo-Pix-Teller.gif)
+
 # Hi, I'm Thaanu Perera <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 [![Twitter: @ThaanuPerera](https://img.shields.io/twitter/follow/ThaanuPerera?style=social)](https://twitter.com/@ThaanuPerera)
 [![GitHub: @Thaanu2001](https://img.shields.io/github/followers/Thaanu2001?style=social)](https://github.com/Thaanu2001)
@@ -58,7 +60,11 @@
             width="40" height="40" /> </a> </p>
 <hr>
 
-![Thaanu's github stats](https://github-readme-stats.vercel.app/api?username=Thaanu2001&show_icons=true&count_private=true&hide=issues&theme=dark&include_all_commits=true)
+<img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Thaanu2001&show_icons=true&count_private=true&hide=issues&theme=dark&include_all_commits=true"
+    />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaanu2001&layout=compact&theme=dark)
 
 
