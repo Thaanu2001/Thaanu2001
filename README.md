@@ -58,8 +58,8 @@
             width="40" height="40" /> </a> </p>
 <hr>
 
-![Thaanu's github stats](https://github-readme-stats.vercel.app/api?username=Thaanu2001&show_icons=true&hide=["issues"])<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaanu2001)](https://github.com/Thaanu2001/github-readme-stats)
+![Thaanu's github stats](https://github-readme-stats.vercel.app/api?username=Thaanu2001&show_icons=true&count_private=true&hide=issues&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaanu2001&layout=compact&theme=dark)
 
 
 <!--
