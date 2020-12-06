@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular and Bootstrap Frameworks** 
 
-- 📫 How to reach me: **thaanup@gmail.com**
+<!-- 📫 How to reach me: **email**-->
 <hr>
 <p align="center">
 <h3 align="left">Connect with me:</h3>
