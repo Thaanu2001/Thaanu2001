@@ -13,27 +13,13 @@
 
 <!-- 📫 How to reach me: **email**-->
 <hr>
-<p align="center">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/thaanu-perera-0a84b9194//" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hi,dude!"
-        height="30" width="40" /></a>
-<a href="https://twitter.com/ThaanuPerera" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hi,dude!" height="30"
-        width="40" /></a>
-<a href="https://dev.to/thaanu2001" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hi,dude!" height="30"
-        width="40" /></a>
-<a href="https://stackoverflow.com/users/13415590/thaanu" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="hi,dude!" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_thaxnu_/" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hi,dude!" height="30"
-        width="40" /></a>
-        <a href="https://www.facebook.com/thaanu.perera/" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hi,dude!" height="30"
-        width="40" /></a>
-</p>
+
+### Connect with me:
+
+[![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/ThaanuPerera)
+[![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/thaanu-perera-0a84b9194)
+[![telegram Card](https://img.icons8.com/color/50/000000/telegram-app.png)](https://t.me/ThaanuPerera)
+[![instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://www.instagram.com/_thaxnu_/)<br>
 
 <hr>
 
