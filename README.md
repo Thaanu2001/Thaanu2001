@@ -9,6 +9,8 @@
 
 - 🔭 I’m a student working towards a Bachelor of Science focused in Software Engineering from Plymouth University, UK.
 
+- 📱 Flutter Developer
+
 - 🌱 I’m currently learning **Angular and Bootstrap Frameworks** 
 
 <!-- 📫 How to reach me: **email**-->
